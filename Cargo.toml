@@ -10,6 +10,7 @@ repository = "https://github.com/galop1n/egui_stuff"
 categories = ["gui", "game-development"]
 keywords = ["gui", "imgui", "immediate", "portable", "gamedev"]
 include = ["LICENSE-APACHE", "LICENSE-MIT", "**/*.rs", "Cargo.toml"]
+description = "Extra widgets and helpers to use within an egui application"
 
 [package.metadata.docs.rs]
 all-features = true
